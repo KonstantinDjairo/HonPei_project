@@ -57,9 +57,7 @@
 | 顏真卿書法字典                            | Yan Zhenqing Calligraphy Dictionary      |
 | 佛教難字字典                             | Buddhist Difficult Character Dictionary   |
 | 隸書异體字字典2020.1.14阿彌陀佛             | Clerical Script Variant Character Dictionary 2020.1.14 (Amitabha) |
-| 漢字偏旁部首独体字大
-
-全                     | Complete Collection of Chinese Radicals and Characters |
+| 漢字偏旁部首独体字大全                     | Complete Collection of Chinese Radicals and Characters |
 | 印章异體字字典                            | Seal Character Variant Dictionary        |
 | 名家書法字典[楷行草]2020.1.12阿彌陀佛        | Famous Calligraphy Dictionary [Regular, Running, Cursive] 2020.1.12 (Amitabha) |
 | 甲骨文小字典                              | Small Dictionary of Oracle Bone Inscriptions |
